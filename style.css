@@ -27,11 +27,6 @@ a {
 }
 
 @font-face {
-    font-family: InterBoldItalic;
-    src: url(fonts-Inter/Inter-BoldItalic.ttf);
-}
-
-@font-face {
     font-family: InterSemiBold;
     src: url(fonts-Inter/Inter-SemiBold.ttf);
 }
@@ -129,9 +124,8 @@ a {
 .venue-details .info-block .copy-block .h3-heading,
 .rules .h3-heading {
     color: #2F313C;	
-    font-family: InterBoldItalic;	
+    font-family: InterBold;	
     font-size: 16px;	
-    font-style: italic;	
     font-weight: bold;	
     letter-spacing: -0.6px;	
     line-height: 20px;
@@ -140,9 +134,8 @@ a {
 
 .information .part-three span a {
     color: #4598FF;	
-    font-family: InterBoldItalic;	
+    font-family: InterBold;	
     font-size: 12px;	
-    font-style: italic;	
     font-weight: bold;	
     line-height: 16px;
     text-decoration: none;
